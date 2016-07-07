@@ -1,16 +1,37 @@
 h1 {
 	font-family: Arial, sans serif;
 	font-size: 36px;
-	line-height: 40px
+	line-height: 40px;
 	font-weight: 300;
 	font-style: italic;
 	color: #5C00A6;
 }
 
-body {
-	text-align: center;
-	color: #000
+h2{
+	font-family: Arial, sans serif;
+	font-size: 18px;
+	line-height: 20px
+	font-weight: 700;
+	color: #E86415;
 }
 
+body {
+	text-align: center;
+	color: #000;
 
+}
+
+ul {
+	margin:0 auto;
+	max-width: 250px;
+
+}
+
+#contact {
+	color: green;
+}
+
+.paragraph-style {
+	color:purple;
+}
 
