@@ -26,22 +26,17 @@ ul {
 
 }
 
-#contact {
-	color: #C651FF;
-
-
-#email {
-	font-family: Arial, sans serif;
-	color: #E86415;
-	font-size: 12px;
-
-
-
-
 .paragraph-style {
 	font-family: Arial, sans serif;
 	font-size: 12px;
 	line-height: 14px
 	font-weight: 300;
 	color: #5C00A6;
+
+#contact {
+	color: #C651FF;
+
+
+#email {
+	color: #E86415;
 
