@@ -19,6 +19,7 @@ body {
 	text-align: center;
 	color: #000;
 
+border-image-width: 125%;
 }
 
 ul {
@@ -29,8 +30,15 @@ ul {
 }
 
 #contact {
-	color: green;
+	color: #C651FF;
 }
+
+#email {
+	color: #E86415;
+	font-size: 12px;
+
+}
+
 
 .paragraph-style {
 	font-family: Arial, sans serif;
