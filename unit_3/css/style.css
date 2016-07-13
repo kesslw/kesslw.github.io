@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Damion);
+
 h1 {
-	font-family: Arial, sans serif;
+	font-family: 'Damion', cursive;
 	font-size: 36px;
 	line-height: 40px;
 	font-weight: 300;
