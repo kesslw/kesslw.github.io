@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Damion);
+
+h1 {
+	font-family: 'Damion', cursive;
+	font-size: 64px;
+	line-height: 90px;
+	font-weight: 500;
+	font-style: italic;
+	color: #5C00A6;
+}
+
+h2{
+	font-family: Arial, sans serif;
+	font-size: 16px;
+	line-height: 18px
+	font-weight: 700;
+	color: #E86415;
+}
+
+body {
+	text-align: center;
+	color: #000;
+}
+
+ul {
+	margin:0 auto;
+	max-width: 100px;
+	text-align: left;
+
+}
+
+.paragraph-style {
+	font-family: Arial, sans serif;
+	font-size: 12px;
+	line-height: 14px
+	font-weight: 300;
+	color: #5C00A6;
+}
+
+#contact {
+	color: #C651FF;
+}
+
+
+#email {
+	color: #E86415;
+}
+
