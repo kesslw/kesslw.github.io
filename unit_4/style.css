@@ -1,19 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Damion);
+<link href='https://fonts.googleapis.com/css?family=Roboto:300,300italic,500,500italic,400italic,400,700,700italic' rel='stylesheet' type='text/css'>
 
 h1 {
 	font-family: 'Damion', cursive;
 	font-size: 64px;
 	line-height: 90px;
 	font-weight: 500;
-	font-style: italic;
 	color: #5C00A6;
 }
 
 h2{
-	font-family: Arial, sans serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	line-height: 18px
-	font-weight: 700;
+	font-weight: 400;
 	color: #E86415;
 }
 
