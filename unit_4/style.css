@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Damion);
 @import url(https://fonts.googleapis.com/css?family=Proza+Libre:800italic);
+
 body {
 	text-align: center;
 	font-family: 'Proza Libre', sans-serif;
@@ -33,9 +34,8 @@ ul {
 }
 
 .paragraph-style {
-	font-family: Arial, sans serif;
-	font-size: 12px;
-	line-height: 14px
+	font-size: 16px;
+	line-height: 1.5em;
 	font-weight: 300;
 	color: #5C00A6;
 }
