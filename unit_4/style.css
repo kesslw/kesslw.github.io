@@ -2,6 +2,12 @@
 @import url(https://fonts.googleapis.com/css?family=Proza+Libre:800italic);
 @import url(https://fonts.googleapis.com/css?family=Proza+Libre);
 
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
 body {
 	text-align: center;
 	font-family: 'Proza Libre', sans-serif;
