@@ -25,6 +25,7 @@ h2{
 	font-weight: 800;
 	font-style: italic;
 	color: #E86415;
+}	
 
 body {
 	text-align: center;
@@ -40,6 +41,7 @@ ul {
 	margin:0 auto;
 	max-width: 100px;
 	text-align: left;
+}
 
 hr{
 	border: none;
@@ -51,8 +53,6 @@ hr{
 img{
 	width: 125%
 }	
-
-}
 
 .paragraph-style {
 	font-size: 16px;
