@@ -15,7 +15,7 @@ h1{
 	line-height: 6em;
 	text-align: center;
 	color: #5C00A6;
-	margin:200px 0 0;
+	margin: 200px 0 0;
 }
 
 h2{
@@ -40,6 +40,13 @@ ul {
 	margin:0 auto;
 	max-width: 100px;
 	text-align: left;
+
+hr{
+	border: none;
+	height: 2px;
+	width: 6em;
+	margin: 1em auto;
+}	
 
 img{
 	width: 125%
