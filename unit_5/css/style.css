@@ -32,9 +32,11 @@ h2,h3{
 }
 h3{
 	font-size: 3em;
+	line-height: 4em;
 }
 h2{
-	font-size: 2em}	
+	font-size: 2em;
+	line-height: 4em;
 }
 a{
 	color:#5949FF;
