@@ -29,10 +29,13 @@ h2,h3{
 	font-style: italic;
 	color: #E86415;
 	margin: 5px;
-h2{font-size: 3em}	
+}
+h2{
+	font-size: 2em}	
 }
 h3{
-	font-size: 2em;
+	font-size: 3em;
+}
 a{
 	color:#5949FF;
 	text-decoration: none;	
