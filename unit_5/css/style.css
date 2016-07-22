@@ -39,9 +39,13 @@ a{
 }
 header{
 	padding: 30px;
+}
 nav{
 	text-align: center;
 }	
+nav a{
+	margin-left: 10px;
+	margin-right:10;
 }	
 ul {
 	margin:0 auto;
