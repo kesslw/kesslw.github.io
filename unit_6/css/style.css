@@ -46,6 +46,7 @@ header{
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;	
+	margin: auto;
 	width:50%;
 }
 nav{
@@ -85,12 +86,16 @@ ul {
 }
 img{
 	width: 60%;
+.wrapper{
+	width: 90%
+	margin:auto;
+}	
 
-.clearfix:after {
+.clearfix:after{
      visibility: hidden;
      display: block;
      font-size: 0;
-     content: " ";
+     content: "xxxxx ";
      clear: both;
      height: 0;
      }	
