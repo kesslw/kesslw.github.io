@@ -31,11 +31,11 @@ h2,h3{
 	margin: 5px;
 }
 h2{
-	font-size: 3em;
+	font-size: 2.5em;
 	line-height: 1.5em;
 }
 h3{
-	font-size: 1em;
+	font-size: 1.5em;
 	line-height: 1.5em;
 }
 a{
@@ -100,14 +100,18 @@ img{
 	padding: 20px;
 }	
 #left {
-	background-color: #E582A2;
+	background-color: violet;
 	border: 1px black solid
 	padding: 20px;
+	float: left;
+	width: 30%;
 }	
 #right {
-	background-color: #E55B88;
+	background-color: pink;
 	border: 1px black solid
 	padding: 20px;
+	float: right;
+	width: 62%;
 }
 #contact {
 	color: #C651FF;
