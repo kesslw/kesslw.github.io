@@ -46,6 +46,7 @@ header{
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;	
+	width:50%;
 }
 nav{
 	text-align: center;
@@ -95,7 +96,7 @@ img{
      }	
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #blue;
 	border: 1px black solid
 	padding: 20px;
 }	
