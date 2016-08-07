@@ -46,12 +46,13 @@ header{
 	padding: 0px;	
 	margin: 0;
 	width:30%;
+	float: left;
 }
 nav{
 	text-align: center;
-	background-color: #E8C66A;
-	border: 1px black solid;
+	background-color: #FFFFFF;
 	padding: 20px;
+	float: right;
 }	
 nav a{
 	margin-left: 10px;
