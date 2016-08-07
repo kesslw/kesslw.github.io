@@ -16,10 +16,10 @@ body {
 h1{
 	font-family: 'Damion', cursive;
 	font-weight: 500;
-	font-size: 5em;
-	line-height: 2em;
+	font-size: 2em;
+	line-height: 1.5em;
 	text-align: center;
-	color: #5C00A6;
+	color: #7A7EBA;
 	margin: 5px 0 0;
 }
 h2,h3{
