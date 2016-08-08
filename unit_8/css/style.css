@@ -17,7 +17,7 @@ h1{
 	font-family: 'Damion', cursive;
 	font-weight: 500;
 	font-size: 2em;
-	line-height: 1.5em;
+	line-height: 1em;
 	text-align: center;
 	color: #7A7EBA;
 	margin: 5px 0 0;
@@ -66,7 +66,7 @@ aside{
 article{
 	background-color: #85F5F3;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 20 10px;
 }
 footer{
 	background-color: #FF957E;
