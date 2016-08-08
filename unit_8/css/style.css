@@ -60,22 +60,18 @@ nav a{
 }
 aside{
 	background-color: #FFC675;
-	border: 1px black solid;
 	padding: 20px;
 }	
 article{
 	background-color: #85F5F3;
-	border: 1px black solid;
 	padding: 20px;
 }
 footer{
 	background-color: #FF957E;
-	border: 1px black solid;
 	padding: 20px;
 }
 div,section{
-	background-color: #FFE2B8;
-	border: 1px black solid;
+	background-color: #ffffff;
 	padding: 20px;
 }	
 ul {
@@ -103,19 +99,16 @@ img{
 
 #two_column {
 	background-color: #FFB7CF;
-	border: 1px black solid
 	padding: 20px;
 }	
 #left {
 	background-color: violet;
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 62%;
 }	
 #right {
 	background-color: pink;
-	border: 1px black solid;
 	padding: 5px;
 	float: right;
 	width: 30%;
