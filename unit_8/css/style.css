@@ -98,6 +98,12 @@ img a{
      clear: both;
      height: 0;
      }	
+ .boxes {
+	background-color: #CBFFB2;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    float: left;
+    width: 33.33%;
 
 #two_column {
 	background-color: #FFFFFF;
@@ -112,15 +118,17 @@ img a{
 }	
 #sample1 {
 	background-color: #CBFFB2;
-	padding: 5px;
-	float: left;		
-	max-width: 294px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    float: left;
+    width: 33.33%;
 }
 #sample2 {
 	background-color: #CBFFB2;
-	padding: 5px;
-	float: left;		
-	max-width: 294px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    float: left;
+    width: 33.33%;
 }
 #contact {
 	color: #C651FF;
@@ -128,3 +136,7 @@ img a{
 #email {
 	color: #E86415;
 }
+
+@media screen and (max-width:723px){
+
+
