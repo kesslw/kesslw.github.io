@@ -81,6 +81,9 @@ ul {
 }
 img{
 	width: 60%;
+img a{
+	width: 30%
+}	
 }
 
 .wrapper{
@@ -112,7 +115,11 @@ img{
 	padding: 5px;
 	float: left;
 	width: 33.33%
-	img: 2em;
+		
+}
+#gdimage {
+	max-width: 294px;
+
 }
 #contact {
 	color: #C651FF;
