@@ -113,16 +113,15 @@ img a{
 #sample1 {
 	background-color: #CBFFB2;
 	padding: 5px;
-	float: left;
-	width: 33.33%		
+	float: left;		
 	max-width: 294px;
 }
 #sample2 {
 	background-color: #CBFFB2;
 	padding: 5px;
-	float: left;
-	width: 33.33%		
+	float: left;		
 	max-width: 294px;
+}
 #contact {
 	color: #C651FF;
 }
