@@ -26,12 +26,12 @@ h2,h3{
 	font-family: 'Lato', sans-serif;
 	font-weight: 800;
 	font-style: italic;
-	color: #E86415;
 	margin: .5%;
 }
 h2{
 	font-size: 2.5em;
 	line-height: 1.5em;
+	color: #ffffff;
 }
 h3{
 	font-size: 1.5em;
@@ -72,7 +72,7 @@ footer{
 }
 div,section{
 	background-color: #ffffff;
-	padding: 2%9AD437;
+	padding: 2%;
 }	
 ul {
 	margin:0 auto;
@@ -97,18 +97,15 @@ img{
      }	
 
 #two_column {
-	background-color: #FFB7CF;
-	padding: 20px;
+	background-color: #FFFFFF;
 }	
 #left {
 	background-color: #76DB34;
 	padding: 20px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	border-left: 15%;
+	border-left: 100px;
 	border-color: #85F5F3;
 	float: left;
-	width: 18.33%;
+	width: 33.33%;
 }	
 #right {
 	background-color: pink;
