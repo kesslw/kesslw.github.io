@@ -110,16 +110,12 @@ img a{
 	float: left;
 	width: 33.33%;
 }	
-#right {
-	background-color: #76DB34 20%;
+#sample {
+	background-color: #CBFFB2;
 	padding: 5px;
 	float: left;
-	width: 33.33%
-		
-}
-#gdimage {
+	width: 33.33%		
 	max-width: 294px;
-
 }
 #contact {
 	color: #C651FF;
