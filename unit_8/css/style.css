@@ -149,6 +149,15 @@ img a{
 		margin: 3px;
 
 	}
+		nav{
+		display: none;
+	}
+
+	nav a:link{
+		display: block;
+		padding:10px;
+		margin:5px;
 }	
+
 
 
