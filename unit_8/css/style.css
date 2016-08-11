@@ -20,14 +20,14 @@ h1{
 	line-height: 1em;
 	text-align: center;
 	color: #7A7EBA;
-	margin: 5px 0 0;
+	margin: .5% 0 0;
 }
 h2,h3{
 	font-family: 'Lato', sans-serif;
 	font-weight: 800;
 	font-style: italic;
 	color: #E86415;
-	margin: 5px;
+	margin: .5%;
 }
 h2{
 	font-size: 2.5em;
@@ -51,7 +51,7 @@ header{
 nav{
 	text-align: center;
 	background-color: #FFFFFF;
-	padding: 20px;
+	padding: 2%;
 	float: right;
 }	
 nav a{
@@ -60,19 +60,19 @@ nav a{
 }
 aside{
 	background-color: #FFC675;
-	padding: 20px;
+	padding: 2%;
 }	
 article{
 	background-color: #85F5F3;
-	padding: 20px;
+	padding: 2%;
 }
 footer{
 	background-color: #FF957E;
-	padding: 20px;
+	padding: 2%;
 }
 div,section{
 	background-color: #ffffff;
-	padding: 20px;
+	padding: 2%9AD437;
 }	
 ul {
 	margin:0 auto;
@@ -85,7 +85,6 @@ img{
 
 .wrapper{
 	width: 90%
-	margin:auto;
 }	
 
 .clearfix:after{
@@ -102,10 +101,14 @@ img{
 	padding: 20px;
 }	
 #left {
-	background-color: violet;
+	background-color: #76DB34;
 	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-left: 15%;
+	border-color: #85F5F3;
 	float: left;
-	width: 62%;
+	width: 18.33%;
 }	
 #right {
 	background-color: pink;
