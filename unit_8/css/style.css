@@ -108,7 +108,7 @@ img a{
 #two_column {
 	background-color: #FFFFFF;
 }	
-#left {
+/*#left {
 	background-color: #76DB34;
 	padding: 20px;
 	border-left: 100px;
@@ -128,7 +128,7 @@ img a{
     padding-top: 21px;
     padding-bottom: 21px;
     float: left;
-    width: 33.33%;
+    width: 33.33%;*/
 }
 #contact {
 	color: #C651FF;
