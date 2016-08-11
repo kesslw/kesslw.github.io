@@ -30,8 +30,8 @@ h2,h3{
 }
 h2{
 	font-size: 2.5em;
-	line-height: 1.5em;
-	color: #ffffff;
+	line-height: 1.3em;
+	color: ##7A7EBA;
 }
 h3{
 	font-size: 1.5em;
@@ -102,6 +102,7 @@ img a{
 	background-color: #CBFFB2;
     padding-top: 21px;
     padding-bottom: 21px;
+    border-left: 18px #85F5F3 solid;
     float: left;
     width: 33.33%;
 
