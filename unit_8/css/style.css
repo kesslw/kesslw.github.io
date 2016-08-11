@@ -30,8 +30,8 @@ h2,h3{
 }
 h2{
 	font-size: 2.5em;
-	line-height: 1.3em;
-	color: ##7A7EBA;
+	line-height: 1.2em;
+	color: #7A7EBA;
 }
 h3{
 	font-size: 1.5em;
@@ -141,6 +141,8 @@ img a{
 	color: #E86415;
 }
 
-@media screen and (max-width:723px){
+@media screen and (max-width:615px){
+	.boxes{ float: none}
+}	
 
 
