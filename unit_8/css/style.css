@@ -108,10 +108,11 @@ img{
 	width: 33.33%;
 }	
 #right {
-	background-color: pink;
+	background-color: #76DB34 20%;
 	padding: 5px;
-	float: right;
-	width: 30%;
+	float: left;
+	width: 33.33%
+	img: 2em;
 }
 #contact {
 	color: #C651FF;
