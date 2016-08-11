@@ -142,7 +142,10 @@ img a{
 }
 
 @media screen and (max-width:615px){
-	.boxes{ float: none}
+	.boxes{ 
+		float: none
+		width: 100%;
+	}
 }	
 
 
