@@ -110,13 +110,19 @@ img a{
 	float: left;
 	width: 33.33%;
 }	
-#sample {
+#sample1 {
 	background-color: #CBFFB2;
 	padding: 5px;
 	float: left;
 	width: 33.33%		
 	max-width: 294px;
 }
+#sample2 {
+	background-color: #CBFFB2;
+	padding: 5px;
+	float: left;
+	width: 33.33%		
+	max-width: 294px;
 #contact {
 	color: #C651FF;
 }
