@@ -1,0 +1,161 @@
+@import url(https://fonts.googleapis.com/css?family=Damion);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	font-weight: 400;
+	color: #000;
+}
+h1{
+	font-family: 'Damion', cursive;
+	font-weight: 500;
+	font-size: 2em;
+	line-height: 1em;
+	text-align: center;
+	color: #7A7EBA;
+	margin: .5% 0 0;
+}
+h2,h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	margin: .5%;
+}
+h2{
+	font-size: 2.5em;
+	line-height: 1.2em;
+	color: #7A7EBA;
+}
+h3{
+	font-size: 1.5em;
+	line-height: 1.5em;
+}
+a{
+	color:#5949FF;
+	text-decoration: none;	
+}	
+header{
+	background-color: #FFFFFF;
+	padding: 0px;	
+	margin: 0;
+	width:30%;
+	float: left;
+}
+nav{
+	text-align: center;
+	background-color: #FFFFFF;
+	padding: 2%;
+	float: right;
+}	
+nav a{
+	margin-left: 10px;
+	margin-right:10;
+}
+aside{
+	background-color: #FFC675;
+	padding: 2%;
+}	
+article{
+	background-color: #85F5F3;
+	padding: 2%;
+}
+footer{
+	background-color: #FF957E;
+	padding: 2%;
+}
+div,section{
+	background-color: #ffffff;
+	padding: 2%;
+}	
+ul {
+	margin:0 auto;
+	max-width: 100px;
+	text-align: left;
+}
+img{
+	width: 60%;
+}
+img a{
+	width: 30%
+}	
+.wrapper{
+	width: 90%
+}	
+
+.clearfix:after{
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: "xxxxx ";
+     clear: both;
+     height: 0;
+     }	
+ .boxes {
+	background-color: #CBFFB2;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    border-left: 18px #85F5F3 solid;
+    float: left;
+    width: 33.33%;
+}
+#two_column {
+	background-color: #FFFFFF;
+}
+#titles {
+	background-color: #4EC862;
+}	
+/*#left {
+	background-color: #76DB34;
+	padding: 20px;
+	border-left: 100px;
+	border-color: #85F5F3;
+	float: left;
+	width: 33.33%;
+}	
+#sample1 {
+	background-color: #CBFFB2;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    float: left;
+    width: 33.33%;
+}
+#sample2 {
+	background-color: #CBFFB2;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    float: left;
+    width: 33.33%;*/
+
+#contact {
+	color: #C651FF;
+}
+#email {
+	color: #E86415;
+}
+
+@media screen and (max-width:615px){
+	.boxes{ 
+		width: 100%;
+		float: none;
+		height: auto;
+		margin: 3px;
+	}
+	header{
+		width: 60%;
+	}
+	nav{
+		display: block;
+		padding:10px;
+		margin:5px;
+	}
+}	
+
+
+
