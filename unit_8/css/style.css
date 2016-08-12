@@ -42,7 +42,7 @@ a{
 	text-decoration: none;	
 }	
 header{
-	background-color: #xxFFFF;
+	background-color: #FFFFFF;
 	padding: 0px;	
 	margin: 0;
 	width:30%;
@@ -81,11 +81,10 @@ ul {
 }
 img{
 	width: 60%;
+}
 img a{
 	width: 30%
 }	
-}
-
 .wrapper{
 	width: 90%
 }	
@@ -105,7 +104,7 @@ img a{
     border-left: 18px #85F5F3 solid;
     float: left;
     width: 33.33%;
-
+}
 #two_column {
 	background-color: #FFFFFF;
 }
@@ -133,7 +132,7 @@ img a{
     padding-bottom: 21px;
     float: left;
     width: 33.33%;*/
-}
+
 #contact {
 	color: #C651FF;
 }
@@ -147,9 +146,11 @@ img a{
 		float: none;
 		height: auto;
 		margin: 3px;
-
 	}
-	nav:{
+	header{
+		width: 60%;
+	}
+	nav{
 		display: block;
 		padding:10px;
 		margin:5px;
