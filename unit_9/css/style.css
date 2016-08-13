@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Damion);
 @import url(https://fonts.googleapis.com/css?family=Lato);
+@import 'https://fonts.googleapis.com/css?family=Shadows+Into+Light';
+
 *{
 	margin:0;
 	padding:0;
@@ -14,7 +16,7 @@ body {
 	color: #000;
 }
 h1{
-	font-family: 'Damion', cursive;
+	font-family: 'Shadows+Into+Light', cursive;
 	font-weight: 500;
 	font-size: 2em;
 	line-height: 1em;
