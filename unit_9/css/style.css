@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Damion);
-@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url('https://fonts.googleapis.com/css?family=Lato:300i,700');
 @import 'https://fonts.googleapis.com/css?family=Shadows+Into+Light';
 
 *{
@@ -16,7 +16,7 @@ body {
 	color: #000;
 }
 h1{
-	font-family: 'Shadows+Into+Light', cursive;
+	font-family: 'Lato:300i', sans-serif;
 	font-weight: 500;
 	font-size: 2em;
 	line-height: 1em;
@@ -25,7 +25,7 @@ h1{
 	margin: .5% 0 0;
 }
 h2,h3{
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato:700', sans-serif;
 	font-weight: 800;
 	font-style: italic;
 	margin: .5%;
