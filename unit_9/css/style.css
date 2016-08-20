@@ -18,12 +18,13 @@ body {
 h1{
 	font-family: 'Lato:300i', sans-serif;
 	font-weight: 300;
-	font-size: 1.8em;
+	font-size: 1.3em;
 	font-style: italic;
 	line-height: 1.3em;
 	text-align: center;
 	color: #6469df;
-	margin: .5% 0 0;
+	padding-left: 6%;
+    padding-right: 6%;
 }
 h2,h3{
 	font-family: 'Lato:700', sans-serif;
