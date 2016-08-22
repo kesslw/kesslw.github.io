@@ -103,7 +103,6 @@ img a{
  .boxes {
 	background-color: #CBFFB2;
  	height: 220px;
-   
     float: left;
     width: 33.33%;
 }
@@ -122,12 +121,12 @@ img a{
 	color: #6469df;
 }
 
-@media screen and (max-width:615px){
+@media screen and (max-width:973px){
 	.boxes{ 
 		width: 100%;
 		float: none;
-		height: auto;
-		margin: 3px;
+		height: 500px;
+		margin: auto;
 	}
 	header{
 		width: 60%;
