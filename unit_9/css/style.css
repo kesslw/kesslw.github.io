@@ -100,19 +100,19 @@ img a{
      clear: both;
      height: 0;
      }	
- .boxes {
+.boxes {
 	background-color: #CBFFB2;
  	height: 220px;
     float: left;
     width: 33.33%;
 }
-#two_column {
-	background-color: #6469df;
-}
-#titles {
+.titles {
 	background-color: #7cbb42;
     width: 28%;
     margin-left: 5.33%;
+} 
+#two_column {
+	background-color: #6469df;
 }	
 #contact {
 	color: #6469df;
