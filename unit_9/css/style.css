@@ -140,10 +140,14 @@ img a{
 	}
 }	
 @media screen and (max-width:480px){
+	h1{
+		font-size: 1em;
+		line-height: 1.1em;
+	}
 	.boxes{ 
 		width: 100%;
 		float: none;
-		height: 500px;
+		height: 225px;
 		margin: auto;
 	}
 	header{
@@ -154,6 +158,8 @@ img a{
 		display: block;
 		padding:10px;
 		margin:5px;
+		border-top: 2px;
+		border-bottom: 2px;
 		float:none;
 		font-size: 1.2em;
 	}
