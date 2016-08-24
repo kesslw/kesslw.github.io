@@ -57,6 +57,7 @@ nav{
 	background-color: #FFFFFF;
 	padding: 2%;
 	float: right;
+	display:inline;
 }	
 nav a{
 	margin-left: 10px;
@@ -100,19 +101,24 @@ img a{
      clear: both;
      height: 0;
      }	
- .boxes {
+.boxes {
 	background-color: #CBFFB2;
  	height: 220px;
     float: left;
     width: 33.33%;
 }
-#two_column {
-	background-color: #6469df;
-}
 #titles {
 	background-color: #7cbb42;
     width: 28%;
     margin-left: 5.33%;
+} 
+#titles2 {
+	background-color: #7cbb42;
+    width: 28%;
+    margin-left: 5.33%;
+}
+#two_column {
+	background-color: #6469df;
 }	
 #contact {
 	color: #6469df;
@@ -121,68 +127,72 @@ img a{
 	color: #6469df;
 }
 .desktop {
-display: block;
+	display: block;
 
 }
 .mobile{
-display:none;
+	display:none;
 }
 @media screen and (max-width:973px){
-.boxes{ 
-width: 100%;
-float: none;
-height: 500px;
-margin: auto;
-border-bottom: 2pt #7cbb42 solid;
-}
-.desktop {
-display: none;
+	.boxes{ 
+		width: 100%;
+		float: none;
+		height: 500px;
+		margin: auto;
+		border-bottom: 2pt #7cbb42 solid;
+	}
+	.desktop {
+	display: none;
 
-}
-.mobile{
-display:block;
-}
-header{
-width: 60%;
-float:none;
-}
-nav{
-display: block;
-padding:10px;
-margin:5px;
-float:none;
-font-size: 1.2em;
-}
-#titles{
-height:220px;
-font-size: 1.2em;
-}
-}
+	}
+	.mobile{
+	display:block;
+	}
+	header{
+		width: 60%;
+		float:none;
+	}
+	nav{
+		display: block;
+		padding:10px;
+		margin:5px;
+		border-bottom: 2pt #77C1F2 solid;
+    	border-top: 2pt #77C1F2 solid;
+		float:none;
+		font-size: 1.2em;
+	}
+		#titles{
+		height:220px;
+		font-size: 1.2em;
+	}
+}	
 @media screen and (max-width:480px){
-h1{
-font-size: 1em;
-line-height: 1.1em;
-}
-.boxes{ 
-width: 100%;
-float: none;
-height: 225px;
-margin: auto;
-}
-header{
-width: 100%;
-float:none;
-}
-nav{
-display: block;
-padding:10px;
-margin:5px;
-border-top: 2px;
-border-bottom: 2px;
-float:none;
-font-size: 1.2em;
-}
-#titles{
-height:200px;
-}
-}
+	h1{
+		font-size: 1em;
+		line-height: 1.1em;
+	}
+	.boxes{ 
+		width: 100%;
+		float: none;
+		height: 225px;
+		margin: auto;
+	}
+	header{
+		width: 100%;
+		float:none;
+	}
+	nav{
+		display: block;
+		padding:10px;
+		margin:5px;
+		border-bottom: 2pt #77C1F2 solid;
+    	border-top: 2pt #77C1F2 solid;
+		float:none;
+		font-size: 1.2em;
+	}
+	#titles{
+		height:200px;
+	}
+}	
+
+

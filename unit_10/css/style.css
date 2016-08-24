@@ -57,7 +57,6 @@ nav{
 	background-color: #FFFFFF;
 	padding: 2%;
 	float: right;
-	display:inline;
 }	
 nav a{
 	margin-left: 10px;
@@ -156,8 +155,6 @@ img a{
 		display: block;
 		padding:10px;
 		margin:5px;
-		border-bottom: 2pt #77C1F2 solid;
-    	border-top: 2pt #77C1F2 solid;
 		float:none;
 		font-size: 1.2em;
 	}
@@ -185,8 +182,8 @@ img a{
 		display: block;
 		padding:10px;
 		margin:5px;
-		border-bottom: 2pt #77C1F2 solid;
-    	border-top: 2pt #77C1F2 solid;
+		border-top: 2px;
+		border-bottom: 2px;
 		float:none;
 		font-size: 1.2em;
 	}
