@@ -172,7 +172,7 @@ img a{
 	nav a:link{
 		display: block;
 		float:none;
-		padding:15px;
+		padding:10px;
 		margin-left:5px;
 		background: #ffffff;
     	border-top: 2pt #77C1F2 solid;
@@ -206,7 +206,7 @@ img a{
 	}
 	#titles{
 		height:180px;
-		padding: none;
+
 	}
 }	
 
